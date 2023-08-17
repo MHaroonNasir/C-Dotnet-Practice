@@ -1,0 +1,13 @@
+D:\Haroon's Folder\Visual Studio\C#\DelegatesTest\bin\Debug\netcoreapp3.1\DelegatesTest.exe
+D:\Haroon's Folder\Visual Studio\C#\DelegatesTest\bin\Debug\netcoreapp3.1\DelegatesTest.deps.json
+D:\Haroon's Folder\Visual Studio\C#\DelegatesTest\bin\Debug\netcoreapp3.1\DelegatesTest.runtimeconfig.json
+D:\Haroon's Folder\Visual Studio\C#\DelegatesTest\bin\Debug\netcoreapp3.1\DelegatesTest.runtimeconfig.dev.json
+D:\Haroon's Folder\Visual Studio\C#\DelegatesTest\bin\Debug\netcoreapp3.1\DelegatesTest.dll
+D:\Haroon's Folder\Visual Studio\C#\DelegatesTest\bin\Debug\netcoreapp3.1\DelegatesTest.pdb
+D:\Haroon's Folder\Visual Studio\C#\DelegatesTest\obj\Debug\netcoreapp3.1\DelegatesTest.csprojAssemblyReference.cache
+D:\Haroon's Folder\Visual Studio\C#\DelegatesTest\obj\Debug\netcoreapp3.1\DelegatesTest.AssemblyInfoInputs.cache
+D:\Haroon's Folder\Visual Studio\C#\DelegatesTest\obj\Debug\netcoreapp3.1\DelegatesTest.AssemblyInfo.cs
+D:\Haroon's Folder\Visual Studio\C#\DelegatesTest\obj\Debug\netcoreapp3.1\DelegatesTest.csproj.CoreCompileInputs.cache
+D:\Haroon's Folder\Visual Studio\C#\DelegatesTest\obj\Debug\netcoreapp3.1\DelegatesTest.dll
+D:\Haroon's Folder\Visual Studio\C#\DelegatesTest\obj\Debug\netcoreapp3.1\DelegatesTest.pdb
+D:\Haroon's Folder\Visual Studio\C#\DelegatesTest\obj\Debug\netcoreapp3.1\DelegatesTest.genruntimeconfig.cache

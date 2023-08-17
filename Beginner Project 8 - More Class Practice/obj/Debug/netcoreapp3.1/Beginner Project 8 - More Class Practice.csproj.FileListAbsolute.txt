@@ -1,0 +1,13 @@
+D:\Haroon's Folder\Visual Studio\C#\Beginner Project 8 - More Class Practice\obj\Debug\netcoreapp3.1\Beginner Project 8 - More Class Practice.csprojAssemblyReference.cache
+D:\Haroon's Folder\Visual Studio\C#\Beginner Project 8 - More Class Practice\obj\Debug\netcoreapp3.1\Beginner Project 8 - More Class Practice.AssemblyInfoInputs.cache
+D:\Haroon's Folder\Visual Studio\C#\Beginner Project 8 - More Class Practice\obj\Debug\netcoreapp3.1\Beginner Project 8 - More Class Practice.AssemblyInfo.cs
+D:\Haroon's Folder\Visual Studio\C#\Beginner Project 8 - More Class Practice\obj\Debug\netcoreapp3.1\Beginner Project 8 - More Class Practice.csproj.CoreCompileInputs.cache
+D:\Haroon's Folder\Visual Studio\C#\Beginner Project 8 - More Class Practice\bin\Debug\netcoreapp3.1\Beginner Project 8 - More Class Practice.exe
+D:\Haroon's Folder\Visual Studio\C#\Beginner Project 8 - More Class Practice\bin\Debug\netcoreapp3.1\Beginner Project 8 - More Class Practice.deps.json
+D:\Haroon's Folder\Visual Studio\C#\Beginner Project 8 - More Class Practice\bin\Debug\netcoreapp3.1\Beginner Project 8 - More Class Practice.runtimeconfig.json
+D:\Haroon's Folder\Visual Studio\C#\Beginner Project 8 - More Class Practice\bin\Debug\netcoreapp3.1\Beginner Project 8 - More Class Practice.runtimeconfig.dev.json
+D:\Haroon's Folder\Visual Studio\C#\Beginner Project 8 - More Class Practice\bin\Debug\netcoreapp3.1\Beginner Project 8 - More Class Practice.dll
+D:\Haroon's Folder\Visual Studio\C#\Beginner Project 8 - More Class Practice\bin\Debug\netcoreapp3.1\Beginner Project 8 - More Class Practice.pdb
+D:\Haroon's Folder\Visual Studio\C#\Beginner Project 8 - More Class Practice\obj\Debug\netcoreapp3.1\Beginner Project 8 - More Class Practice.dll
+D:\Haroon's Folder\Visual Studio\C#\Beginner Project 8 - More Class Practice\obj\Debug\netcoreapp3.1\Beginner Project 8 - More Class Practice.pdb
+D:\Haroon's Folder\Visual Studio\C#\Beginner Project 8 - More Class Practice\obj\Debug\netcoreapp3.1\Beginner Project 8 - More Class Practice.genruntimeconfig.cache

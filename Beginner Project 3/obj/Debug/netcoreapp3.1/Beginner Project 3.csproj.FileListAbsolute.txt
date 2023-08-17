@@ -1,0 +1,13 @@
+D:\Haroon's Folder\Visual Studio\C#\Beginner Project 3\bin\Debug\netcoreapp3.1\Beginner Project 3.exe
+D:\Haroon's Folder\Visual Studio\C#\Beginner Project 3\bin\Debug\netcoreapp3.1\Beginner Project 3.deps.json
+D:\Haroon's Folder\Visual Studio\C#\Beginner Project 3\bin\Debug\netcoreapp3.1\Beginner Project 3.runtimeconfig.json
+D:\Haroon's Folder\Visual Studio\C#\Beginner Project 3\bin\Debug\netcoreapp3.1\Beginner Project 3.runtimeconfig.dev.json
+D:\Haroon's Folder\Visual Studio\C#\Beginner Project 3\bin\Debug\netcoreapp3.1\Beginner Project 3.dll
+D:\Haroon's Folder\Visual Studio\C#\Beginner Project 3\bin\Debug\netcoreapp3.1\Beginner Project 3.pdb
+D:\Haroon's Folder\Visual Studio\C#\Beginner Project 3\obj\Debug\netcoreapp3.1\Beginner Project 3.csprojAssemblyReference.cache
+D:\Haroon's Folder\Visual Studio\C#\Beginner Project 3\obj\Debug\netcoreapp3.1\Beginner Project 3.AssemblyInfoInputs.cache
+D:\Haroon's Folder\Visual Studio\C#\Beginner Project 3\obj\Debug\netcoreapp3.1\Beginner Project 3.AssemblyInfo.cs
+D:\Haroon's Folder\Visual Studio\C#\Beginner Project 3\obj\Debug\netcoreapp3.1\Beginner Project 3.csproj.CoreCompileInputs.cache
+D:\Haroon's Folder\Visual Studio\C#\Beginner Project 3\obj\Debug\netcoreapp3.1\Beginner Project 3.dll
+D:\Haroon's Folder\Visual Studio\C#\Beginner Project 3\obj\Debug\netcoreapp3.1\Beginner Project 3.pdb
+D:\Haroon's Folder\Visual Studio\C#\Beginner Project 3\obj\Debug\netcoreapp3.1\Beginner Project 3.genruntimeconfig.cache

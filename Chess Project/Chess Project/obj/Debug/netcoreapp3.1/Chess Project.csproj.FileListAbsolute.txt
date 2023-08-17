@@ -1,0 +1,13 @@
+D:\Haroon's Folder\Visual Studio\C#\Chess Project\Chess Project\bin\Debug\netcoreapp3.1\Chess Project.exe
+D:\Haroon's Folder\Visual Studio\C#\Chess Project\Chess Project\bin\Debug\netcoreapp3.1\Chess Project.deps.json
+D:\Haroon's Folder\Visual Studio\C#\Chess Project\Chess Project\bin\Debug\netcoreapp3.1\Chess Project.runtimeconfig.json
+D:\Haroon's Folder\Visual Studio\C#\Chess Project\Chess Project\bin\Debug\netcoreapp3.1\Chess Project.runtimeconfig.dev.json
+D:\Haroon's Folder\Visual Studio\C#\Chess Project\Chess Project\bin\Debug\netcoreapp3.1\Chess Project.dll
+D:\Haroon's Folder\Visual Studio\C#\Chess Project\Chess Project\bin\Debug\netcoreapp3.1\Chess Project.pdb
+D:\Haroon's Folder\Visual Studio\C#\Chess Project\Chess Project\obj\Debug\netcoreapp3.1\Chess Project.csprojAssemblyReference.cache
+D:\Haroon's Folder\Visual Studio\C#\Chess Project\Chess Project\obj\Debug\netcoreapp3.1\Chess Project.AssemblyInfoInputs.cache
+D:\Haroon's Folder\Visual Studio\C#\Chess Project\Chess Project\obj\Debug\netcoreapp3.1\Chess Project.AssemblyInfo.cs
+D:\Haroon's Folder\Visual Studio\C#\Chess Project\Chess Project\obj\Debug\netcoreapp3.1\Chess Project.csproj.CoreCompileInputs.cache
+D:\Haroon's Folder\Visual Studio\C#\Chess Project\Chess Project\obj\Debug\netcoreapp3.1\Chess Project.dll
+D:\Haroon's Folder\Visual Studio\C#\Chess Project\Chess Project\obj\Debug\netcoreapp3.1\Chess Project.pdb
+D:\Haroon's Folder\Visual Studio\C#\Chess Project\Chess Project\obj\Debug\netcoreapp3.1\Chess Project.genruntimeconfig.cache

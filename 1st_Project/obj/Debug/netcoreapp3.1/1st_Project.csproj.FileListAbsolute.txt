@@ -1,0 +1,13 @@
+D:\Haroon's Folder\Visual Studio\C#\1st_Project\bin\Debug\netcoreapp3.1\1st_Project.exe
+D:\Haroon's Folder\Visual Studio\C#\1st_Project\bin\Debug\netcoreapp3.1\1st_Project.deps.json
+D:\Haroon's Folder\Visual Studio\C#\1st_Project\bin\Debug\netcoreapp3.1\1st_Project.runtimeconfig.json
+D:\Haroon's Folder\Visual Studio\C#\1st_Project\bin\Debug\netcoreapp3.1\1st_Project.runtimeconfig.dev.json
+D:\Haroon's Folder\Visual Studio\C#\1st_Project\bin\Debug\netcoreapp3.1\1st_Project.dll
+D:\Haroon's Folder\Visual Studio\C#\1st_Project\bin\Debug\netcoreapp3.1\1st_Project.pdb
+D:\Haroon's Folder\Visual Studio\C#\1st_Project\obj\Debug\netcoreapp3.1\1st_Project.csprojAssemblyReference.cache
+D:\Haroon's Folder\Visual Studio\C#\1st_Project\obj\Debug\netcoreapp3.1\1st_Project.AssemblyInfoInputs.cache
+D:\Haroon's Folder\Visual Studio\C#\1st_Project\obj\Debug\netcoreapp3.1\1st_Project.AssemblyInfo.cs
+D:\Haroon's Folder\Visual Studio\C#\1st_Project\obj\Debug\netcoreapp3.1\1st_Project.csproj.CoreCompileInputs.cache
+D:\Haroon's Folder\Visual Studio\C#\1st_Project\obj\Debug\netcoreapp3.1\1st_Project.dll
+D:\Haroon's Folder\Visual Studio\C#\1st_Project\obj\Debug\netcoreapp3.1\1st_Project.pdb
+D:\Haroon's Folder\Visual Studio\C#\1st_Project\obj\Debug\netcoreapp3.1\1st_Project.genruntimeconfig.cache
